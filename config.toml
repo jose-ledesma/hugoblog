@@ -1,4 +1,4 @@
-baseURL = "http://www.takiones.com/"
+baseURL = "https://www.takiones.com/"
 languageCode = "en-us"
 title = "Takiones"
 theme = "ananke"
