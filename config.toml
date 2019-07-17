@@ -1,4 +1,16 @@
 baseURL = "https://www.takiones.com/"
 languageCode = "en-us"
 title = "Takiones"
-theme = "ananke"
+theme = "dream-plus"
+
+[params.author]
+  author = "Jose Luis Ledesma"
+  description = "Takiones everywhere"
+  motto = "Dev & Ops & Father & Climber"
+
+  #Leaving the avatar variable unset displays svg avatars
+  #avatar = "<absolute path to avatar>"
+
+[social]
+  github = "josledp"
+  twitter = "josledp"
